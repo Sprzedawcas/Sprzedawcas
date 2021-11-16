@@ -2,7 +2,7 @@
 - 👀 I’m interested in New technologi and cyber security 
 - 🌱 I’m currently learning python 
 - 💞️ I'm looking to collaborate to program something using python 😎
-- 📫 How to reach me ...
+- 📫 How to reach me 
      -🟦Disocrd: Sprzedawca#3473
 
 <!---
